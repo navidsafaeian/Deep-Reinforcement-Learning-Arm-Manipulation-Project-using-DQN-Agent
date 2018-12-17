@@ -8,9 +8,11 @@ This project is based on the Nvidia open source project "jetson-reinforcement" d
 1. Have any part of the robot arm touch the object of interest, with at least a 90% accuracy.
 2. Have only the gripper base of the robot arm touch the object, with at least a 80% accuracy.
 
+![DQNarm]
+
 To read my Report Paper in pdf format go to my [full Report](Report-Paper.pdf).
 
-![DQNarm]
+[](Report-Paper.png)
 
 
 ## Building from Source (Nvidia Jetson TX2)
